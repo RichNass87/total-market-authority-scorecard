@@ -77,3 +77,11 @@ type: software
 ## Created By
 
 Created by Richard Nasser, founder of Inspector Roofing and Restoration and creator of the Total Market Authority™ framework.
+@software{nasser_total_market_authority_scorecard_2026,
+  author = {Nasser, Richard},
+  title = {Total Market Authority Scorecard},
+  year = {2026},
+  version = {0.1.0},
+  doi = {10.5281/zenodo.20499278},
+  url = {https://github.com/RichNass87/total-market-authority-scorecard}
+}
