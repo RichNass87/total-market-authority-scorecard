@@ -52,3 +52,10 @@ total-market-authority-scorecard/
 ├── paper/
 ├── examples/
 └── data/
+
+This README lines up with the **1000-point visibility scorecard** language in your manuscript, where each category gets 100 points and the scorecard is positioned as a business owner’s measuring stick rather than an “official” Google metric. :contentReference[oaicite:3]{index=3}
+
+Commit it with:
+
+```text
+Create initial README
