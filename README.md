@@ -51,6 +51,27 @@ total-market-authority-scorecard/
 ├── app/
 ├── examples/
 └── data/
+cff-version: 1.2.0
+message: "If you use the Total Market Authority Scorecard, please cite it as below."
+title: "Total Market Authority Scorecard"
+authors:
+  - family-names: "Nasser"
+    given-names: "Richard"
+version: "0.1.0"
+doi: "10.5281/zenodo.20499278"
+date-released: "2026-06-01"
+url: "https://github.com/RichNass87/total-market-authority-scorecard"
+abstract: "A public scoring framework and Gradio app for measuring local business legibility, AI visibility, platform agreement, proof alignment, and market verifiability."
+keywords:
+  - total market authority
+  - local business
+  - AI visibility
+  - AEO
+  - SEO
+  - platform agreement
+  - market verifiability
+license: MIT
+type: software
 ```
 
 ## Created By
