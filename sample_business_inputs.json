@@ -1,0 +1,18 @@
+{
+  "business_name": "Inspector Roofing and Restoration",
+  "industry": "Roofing and Restoration",
+  "market": "Alpharetta, Georgia / North Atlanta",
+  "authority_sentence": "We help homeowners make inspection-first roofing decisions through documentation, evidence, and claim verifiability.",
+  "scores": {
+    "legal_and_factual_clarity": 90,
+    "entity_clarity": 85,
+    "role_clarity": 95,
+    "language_ownership": 90,
+    "proof_alignment": 80,
+    "platform_agreement": 75,
+    "website_brain": 85,
+    "machine_readability_schema": 70,
+    "owner_team_entity_strength": 80,
+    "behavioral_confirmation": 75
+  }
+}

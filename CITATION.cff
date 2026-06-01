@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Total Market Authority Scorecard"
+version: 0.1.0
+date-released: 2026-06-01
+authors:
+  - family-names: "Nasser"
+    given-names: "Richard"
+repository-code: "https://github.com/InspectorRoofing/total-market-authority-scorecard"
+url: "https://github.com/InspectorRoofing/total-market-authority-scorecard"
+type: software
+abstract: "A public scoring framework and app for measuring local business legibility, AI visibility, platform agreement, and market verifiability."
+license: MIT
+preferred-citation:
+  type: article
+  title: "Total Market Authority: A Scoring Framework for Local Business Legibility in AI-Mediated Search Environments"
+  authors:
+    - family-names: "Nasser"
+      given-names: "Richard"
+  year: 2026

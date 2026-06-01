@@ -1,52 +1,42 @@
 total_score: 1000
-
 categories:
   legal_and_factual_clarity:
-    label: "Legal and Factual Clarity"
+    label: Legal and Factual Clarity
     max_points: 100
-    description: "Measures whether the business name, location, category, contact details, legal presence, and factual identity are clear and consistent."
-
+    description: Measures whether the business name, location, category, contact details, legal presence, and factual identity are clear and consistent.
+  entity_clarity:
+    label: Entity Clarity
+    max_points: 100
+    description: Measures whether platforms can identify the business as one connected entity across public profiles, owned assets, proof assets, and owner/team signals.
   role_clarity:
-    label: "Role Clarity"
+    label: Role Clarity
     max_points: 100
-    description: "Measures whether the business has a specific role in the customer's decision beyond generic service labels."
-
+    description: Measures whether the business has a specific role in the customer's decision beyond generic service labels.
   language_ownership:
-    label: "Language Ownership"
+    label: Language Ownership
     max_points: 100
-    description: "Measures whether the business uses memorable, specific, repeatable language that defines its method or market position."
-
+    description: Measures whether the business uses memorable, specific, repeatable language that defines its method, standard, or point of view.
   proof_alignment:
-    label: "Proof Alignment"
+    label: Proof Alignment
     max_points: 100
-    description: "Measures whether reviews, photos, case studies, posts, videos, and proof assets support the role the business claims."
-
+    description: Measures whether reviews, photos, case studies, posts, videos, and proof assets support the role the business claims.
   platform_agreement:
-    label: "Platform Agreement"
+    label: Platform Agreement
     max_points: 100
-    description: "Measures whether Google Business Profile, website, social profiles, review platforms, directories, marketplaces, and author assets reinforce the same business identity."
-
-  website_structure:
-    label: "Website Structure"
+    description: Measures whether public platforms reinforce the same business identity, role, location, method, and proof pattern.
+  website_brain:
+    label: Website Brain
     max_points: 100
-    description: "Measures whether the website acts as an authority hub with identity, decision, proof, definition, and conversion layers."
-
+    description: Measures whether the website organizes identity, decisions, proof, definitions, FAQs, case studies, owner authority, and conversion paths.
   machine_readability_schema:
-    label: "Machine Readability and Schema Discipline"
+    label: Machine Readability and Schema Discipline
     max_points: 100
-    description: "Measures whether the business uses clear headings, metadata, internal links, visible summaries, schema, and structured facts responsibly."
-
-  founder_entity_strength:
-    label: "Owner / Founder Entity Strength"
+    description: Measures whether the business uses clear headings, metadata, internal links, visible summaries, structured content, schema, and responsible machine-readable facts.
+  owner_team_entity_strength:
+    label: Owner / Team Entity Strength
     max_points: 100
-    description: "Measures whether the owner, founder, or team is publicly connected to the business, its standards, and its authority framework."
-
-  customer_behavior:
-    label: "Customer Behavior"
+    description: Measures whether the owner, founder, leadership, and team are publicly connected to the business standards, proof, process, and authority framework.
+  behavioral_confirmation:
+    label: Behavioral Confirmation
     max_points: 100
-    description: "Measures whether customers respond in ways that confirm the authority frame, such as asking better questions, mentioning the process, and arriving with context."
-
-  discipline_and_consistency:
-    label: "Discipline and Consistency"
-    max_points: 100
-    description: "Measures whether the business repeats the same true idea over time without panic-changing its identity or replacing proof with noise."
+    description: Measures whether customers, reviews, questions, calls, engagement, and platform behavior confirm that the market understands the business frame.

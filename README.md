@@ -1,29 +1,27 @@
 # Total Market Authority Scorecard™
 
-A public scoring framework for measuring how clearly a local business can be understood, verified, and recommended across websites, search, AI systems, social platforms, review platforms, proof assets, and customer decision surfaces.
+A public scoring framework and app for measuring how clearly a local business can be understood, verified, and recommended across websites, search, AI systems, social platforms, review platforms, proof assets, and customer decision surfaces.
 
 ## What Is Total Market Authority?
 
-Total Market Authority is the point where a local business is consistently understood across search, AI, social platforms, review platforms, marketplaces, and owned content as the safest answer for a specific customer decision.
+Total Market Authority is a business-legibility framework for evaluating whether a local business has a clear, repeatable, verifiable public pattern. The scorecard is designed to help business owners identify whether their ecosystem is aligned, provable, and understandable across public digital surfaces.
 
-The scorecard is designed to help business owners identify whether their public ecosystem is aligned, verifiable, and easy for humans and machines to explain.
+This project converts the Total Market Authority framework into a practical 1000-point scorecard, methodology paper, and Gradio app.
 
-## What This Measures
+## Scorecard Categories
 
-The Total Market Authority Scorecard evaluates a business across ten 100-point categories:
+Each category is worth 100 points:
 
 1. Legal and Factual Clarity
-2. Role Clarity
-3. Language Ownership
-4. Proof Alignment
-5. Platform Agreement
-6. Website Structure
-7. Machine Readability and Schema Discipline
-8. Owner / Founder Entity Strength
-9. Customer Behavior
-10. Discipline and Consistency
-
-Total score: 1000 points.
+2. Entity Clarity
+3. Role Clarity
+4. Language Ownership
+5. Proof Alignment
+6. Platform Agreement
+7. Website Brain
+8. Machine Readability and Schema Discipline
+9. Owner / Team Entity Strength
+10. Behavioral Confirmation
 
 ## Score Interpretation
 
@@ -38,24 +36,23 @@ Total score: 1000 points.
 
 This project is intended for education, research, business analysis, and local authority planning.
 
-It does not guarantee rankings, leads, revenue, AI summaries, search placement, advertising performance, or platform outcomes.
+It does not guarantee rankings, leads, revenue, AI summaries, search placement, advertising performance, platform outcomes, or business outcomes.
 
-## Project Structure
+## Repository Structure
 
 ```text
 total-market-authority-scorecard/
 ├── README.md
+├── LICENSE
+├── CITATION.cff
 ├── weights.yaml
-├── methodology.md
-├── app.py
-├── requirements.txt
 ├── paper/
+├── docs/
+├── app/
 ├── examples/
 └── data/
+```
 
-This README lines up with the **1000-point visibility scorecard** language in your manuscript, where each category gets 100 points and the scorecard is positioned as a business owner’s measuring stick rather than an “official” Google metric. :contentReference[oaicite:3]{index=3}
+## Created By
 
-Commit it with:
-
-```text
-Create initial README
+Created by Richard Nasser, founder of Inspector Roofing and Restoration and creator of the Total Market Authority™ framework.
