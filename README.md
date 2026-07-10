@@ -41,6 +41,7 @@ It does not guarantee rankings, leads, revenue, AI summaries, search placement, 
 ## Evidence Packages
 
 - [Inspector Roofing music proof stack](evidence/inspector-roofing-music/): public-safe documentation for the Inspector Roofing music/creative media artist name, including Spotify and Apple Music artist anchors, UPC/ISRC release registry, and conservative schema notes.
+- [Inspector Roofing transmission layer](evidence/inspector-roofing-transmission-layer/): public-safe geospatial, government-record, and press-validator anchors connecting the digital authority stack back to the Alpharetta, Georgia roofing business.
 
 ## Repository Structure
 
