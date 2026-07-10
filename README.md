@@ -38,6 +38,10 @@ This project is intended for education, research, business analysis, and local a
 
 It does not guarantee rankings, leads, revenue, AI summaries, search placement, advertising performance, platform outcomes, or business outcomes.
 
+## Evidence Packages
+
+- [Inspector Roofing music proof stack](evidence/inspector-roofing-music/): public-safe documentation for the Inspector Roofing music/creative media artist name, including Spotify and Apple Music artist anchors, UPC/ISRC release registry, and conservative schema notes.
+
 ## Repository Structure
 
 ```text
@@ -50,7 +54,13 @@ total-market-authority-scorecard/
 ├── docs/
 ├── app/
 ├── examples/
-└── data/
+├── data/
+└── evidence/
+```
+
+## Citation Metadata
+
+```yaml
 cff-version: 1.2.0
 message: "If you use the Total Market Authority Scorecard, please cite it as below."
 title: "Total Market Authority Scorecard"
