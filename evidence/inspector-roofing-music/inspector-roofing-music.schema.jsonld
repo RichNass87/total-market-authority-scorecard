@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["MusicGroup", "Brand"],
+      "@id": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-music#inspector-roofing-music",
+      "name": "Inspector Roofing",
+      "alternateName": "Inspector Roofing music project",
+      "description": "Roofing-themed music and creative media artist name connected to the Inspector Roofing brand ecosystem.",
+      "url": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-music",
+      "sameAs": [
+        "https://open.spotify.com/artist/4xfktCpKHz00yF0Iw0G4uL",
+        "https://music.apple.com/us/artist/inspector-roofing/1896711289"
+      ],
+      "mainEntityOfPage": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-music",
+      "subjectOf": [
+        {
+          "@type": "Dataset",
+          "name": "Inspector Roofing music release registry",
+          "url": "https://github.com/RichNass87/total-market-authority-scorecard/blob/main/evidence/inspector-roofing-music/releases.json"
+        }
+      ],
+      "album": [
+        {
+          "@type": "MusicAlbum",
+          "name": "Climbing Through the Storm - Single",
+          "datePublished": "2026-05-16",
+          "byArtist": { "@id": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-music#inspector-roofing-music" },
+          "identifier": [
+            { "@type": "PropertyValue", "propertyID": "UPC", "value": "825192700138" },
+            { "@type": "PropertyValue", "propertyID": "ISRC", "value": "QZZ7Q2652703" }
+          ],
+          "sameAs": [
+            "https://open.spotify.com/album/6qt1bn8rKVnpD2vA5l8sgh",
+            "https://music.apple.com/us/album/climbing-through-the-storm-single/6770325035",
+            "https://distrokid.com/hyperfollow/inspectorroofing/climbing-through-the-storm?ref=release"
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Above The Search \"Roofer Near Me\" - Single",
+          "datePublished": "2026-06-12",
+          "byArtist": { "@id": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-music#inspector-roofing-music" },
+          "identifier": [
+            { "@type": "PropertyValue", "propertyID": "UPC", "value": "883369676730" },
+            { "@type": "PropertyValue", "propertyID": "ISRC", "value": "QT3FF2601689" }
+          ],
+          "sameAs": [
+            "https://open.spotify.com/album/1McYVRQPHNjGoyWuiRkzZ6",
+            "https://music.apple.com/us/album/above-the-search-roofer-near-me-single/6779893812",
+            "https://distrokid.com/hyperfollow/inspectorroofing/above-the-search-roofer-near-me?ref=release"
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "The Paper Trail - Single",
+          "datePublished": "2026-06-08",
+          "byArtist": { "@id": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-music#inspector-roofing-music" },
+          "identifier": [
+            { "@type": "PropertyValue", "propertyID": "UPC", "value": "883306470902" },
+            { "@type": "PropertyValue", "propertyID": "ISRC", "value": "QT3FB2637183" }
+          ],
+          "sameAs": [
+            "https://open.spotify.com/album/4QV2PP9D0PjXqKesOVlbVW",
+            "https://music.apple.com/us/album/the-paper-trail-single/6778202357",
+            "https://distrokid.com/hyperfollow/inspectorroofing/the-paper-trail?ref=release"
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Finish With The Proof - Single",
+          "datePublished": "2026-06-07",
+          "byArtist": { "@id": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-music#inspector-roofing-music" },
+          "identifier": [
+            { "@type": "PropertyValue", "propertyID": "UPC", "value": "883306757195" },
+            { "@type": "PropertyValue", "propertyID": "ISRC", "value": "QT3FA2666165" }
+          ],
+          "sameAs": [
+            "https://open.spotify.com/album/54P6rn3BEPs3DNlvogITCf",
+            "https://music.apple.com/us/album/finish-with-the-proof-single/6777860638",
+            "https://distrokid.com/hyperfollow/inspectorroofing/finish-with-the-proof?ref=release"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-music#release-registry",
+      "name": "Inspector Roofing music release registry",
+      "description": "Public-safe registry of Inspector Roofing music releases, including release dates, UPCs, ISRCs, Spotify URLs, Apple Music URLs, and HyperFollow URLs.",
+      "creator": {
+        "@type": "Person",
+        "name": "Richard Amir Nasser",
+        "sameAs": [
+          "https://orcid.org/0009-0000-2980-7543",
+          "https://www.wikidata.org/wiki/Q140475713"
+        ]
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "dateModified": "2026-07-10",
+      "url": "https://github.com/RichNass87/total-market-authority-scorecard/blob/main/evidence/inspector-roofing-music/releases.json"
+    }
+  ]
+}
