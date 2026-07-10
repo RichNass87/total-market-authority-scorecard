@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness", "RoofingContractor"],
+      "@id": "https://inspector-roofing.com/#inspector-roofing-and-restoration",
+      "name": "Inspector Roofing and Restoration",
+      "url": "https://inspector-roofing.com/",
+      "telephone": "+1-678-287-7169",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1875 Lockeway Dr Ste 701",
+        "addressLocality": "Alpharetta",
+        "addressRegion": "GA",
+        "postalCode": "30004",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.1455463,
+        "longitude": -84.2483834
+      },
+      "areaServed": [
+        "Alpharetta, GA",
+        "Roswell, GA",
+        "Milton, GA",
+        "Johns Creek, GA",
+        "Cumming, GA",
+        "Sandy Springs, GA",
+        "North Fulton, GA",
+        "Forsyth County, GA",
+        "North Atlanta, GA",
+        "Metro Atlanta, GA"
+      ],
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q140480476",
+        "https://www.google.com/maps/place/Inspector+Roofing+and+Restoration/@34.1455463,-84.2483834,17z/data=!3m1!4b1!4m6!3m5!1s0x88f575bc9b0587db:0xe61fa83f1e615cea!8m2!3d34.1455463!4d-84.2483834!16s%2Fg%2F11h9gcydxt"
+      ],
+      "founder": {
+        "@type": "Person",
+        "name": "Richard Amir Nasser",
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q140475713",
+          "https://orcid.org/0009-0000-2980-7543"
+        ]
+      },
+      "subjectOf": [
+        {
+          "@type": "NewsArticle",
+          "headline": "Alpharetta Roofing Founder Turns 'Roofer Near Me' Into a Public AI Visibility Study",
+          "datePublished": "2026-06-17",
+          "url": "https://www.einpresswire.com/article/920015110/alpharetta-roofing-founder-turns-roofer-near-me-into-a-public-ai-visibility-study"
+        },
+        {
+          "@type": "NewsArticle",
+          "headline": "Richard Nasser Publishes DOI-Backed AI Visibility Research Stack",
+          "datePublished": "2026-06-30",
+          "url": "https://www.einpresswire.com/article/923167972/richard-nasser-publishes-doi-backed-ai-visibility-research-stack"
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-transmission-layer#transmission-layer",
+      "name": "Inspector Roofing Transmission Layer",
+      "description": "Public-safe geospatial, government-record, and third-party validator registry for Inspector Roofing and Restoration and related research/evidence systems.",
+      "url": "https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-transmission-layer",
+      "creator": {
+        "@type": "Person",
+        "name": "Richard Amir Nasser",
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q140475713",
+          "https://orcid.org/0009-0000-2980-7543"
+        ]
+      },
+      "dateModified": "2026-07-10",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
