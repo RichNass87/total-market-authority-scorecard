@@ -2,6 +2,10 @@
 
 This folder maps the existing thin Wikidata items that should be strengthened with conservative, sourced claims.
 
+## Claim Map
+
+- [Wikidata-safe claim map](wikidata-safe-claim-map.md)
+
 ## Live but Thin Items
 
 - Claim Verifiability: https://www.wikidata.org/wiki/Q140481799
