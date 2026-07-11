@@ -40,8 +40,14 @@ It does not guarantee rankings, leads, revenue, AI summaries, search placement, 
 
 ## Evidence Packages
 
+- [Inspector Roofing seven-area proof stack](evidence/inspector-roofing-seven-area-proof-stack/): master registry for the seven public-safe proof areas.
 - [Inspector Roofing music proof stack](evidence/inspector-roofing-music/): public-safe documentation for the Inspector Roofing music/creative media artist name, including Spotify and Apple Music artist anchors, UPC/ISRC release registry, and conservative schema notes.
-- [Inspector Roofing transmission layer](evidence/inspector-roofing-transmission-layer/): public-safe geospatial, government-record, and press-validator anchors connecting the digital authority stack back to the Alpharetta, Georgia roofing business.
+- [Inspector Roofing University](evidence/inspector-roofing-university/): homeowner and contractor education-resource proof notes with non-accreditation guardrails.
+- [The Chase for "Roofer Near Me"](evidence/roofer-near-me-book/): public-safe source notes for the book and Wikidata item.
+- [Retail Roofing Lockdown](evidence/retail-roofing-lockdown/): hold package for the homeowner education book/concept pending a stable source.
+- [Inspector Roofing method and book cleanup](evidence/inspector-roofing-method-books/): Wikidata-safe source map for Claim Verifiability, Verifiable Roof, and related books/method items.
+- [Inspector Roofing transmission layer](evidence/inspector-roofing-transmission-layer/): public-safe geospatial, government-record, Maps embed, and press-validator anchors connecting the digital authority stack back to the Alpharetta, Georgia roofing business.
+- [Inspector Roofing validator cluster](evidence/inspector-roofing-validator-cluster/): verified third-party press source registry.
 
 ## Repository Structure
 
