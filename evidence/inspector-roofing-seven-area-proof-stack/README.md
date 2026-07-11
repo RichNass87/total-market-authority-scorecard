@@ -4,6 +4,11 @@ This registry organizes seven public-safe evidence areas for the Richard Amir Na
 
 The goal is not to inflate claims. The goal is to make each public entity easier to verify, easier to separate, and easier to cite without confusing the person, business, methods, books, music project, education resources, local geography, and press records.
 
+## Public Mirrors
+
+- GitHub source folder: https://github.com/RichNass87/total-market-authority-scorecard/tree/main/evidence/inspector-roofing-seven-area-proof-stack
+- Hugging Face dataset mirror: https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-seven-area-proof-stack
+
 ## The Seven Areas
 
 1. **Music / AI Artist / Storm Anthems Media Layer**
