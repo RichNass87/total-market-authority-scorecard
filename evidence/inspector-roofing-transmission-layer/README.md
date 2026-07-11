@@ -25,6 +25,7 @@ Publicly checked July 10, 2026.
 - Phone: +1 678-287-7169
 - Website: https://inspector-roofing.com/
 - Google Maps URL: https://www.google.com/maps/place/Inspector+Roofing+and+Restoration/@34.1455463,-84.2483834,17z/data=!3m1!4b1!4m6!3m5!1s0x88f575bc9b0587db:0xe61fa83f1e615cea!8m2!3d34.1455463!4d-84.2483834!16s%2Fg%2F11h9gcydxt
+- Google Maps embed URL: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3302.031106947426!2d-84.25095832427951!3d34.14554627312192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f575bc9b0587db%3A0xe61fa83f1e615cea!2sInspector%20Roofing%20and%20Restoration!5e0!3m2!1sen!2sus!4v1783735018516!5m2!1sen!2sus
 - Latitude: 34.1455463
 - Longitude: -84.2483834
 - Plus code shown by Google Maps: 4QW2+6J Alpharetta, Georgia
