@@ -73,7 +73,7 @@ message: "If you use the Total Market Authority Scorecard, please cite it as bel
 title: "Total Market Authority Scorecard"
 authors:
   - family-names: "Nasser"
-    given-names: "Richard"
+    given-names: "Richard Amir"
 version: "0.1.0"
 doi: "10.5281/zenodo.20499278"
 date-released: "2026-06-01"
@@ -93,4 +93,4 @@ type: software
 
 ## Created By
 
-Created by Richard Nasser, founder of Inspector Roofing and Restoration and creator of the Total Market Authority™ framework.
+Created by Richard Amir Nasser, founder of Inspector Roofing and Restoration and creator of the Total Market Authority™ framework.
