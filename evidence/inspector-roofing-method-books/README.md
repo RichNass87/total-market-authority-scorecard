@@ -1,19 +1,19 @@
-# Inspector Roofing Method and Book Item Cleanup
+# Inspector Roofing Method and Book Evidence Registry
 
-This folder maps the existing thin Wikidata items that should be strengthened with conservative, sourced claims.
+This folder maps public-source evidence for Inspector Roofing methods and publications. No active Wikidata QID is currently asserted for these entries.
 
 ## Claim Map
 
 - [Wikidata-safe claim map](wikidata-safe-claim-map.md)
 
-## Live but Thin Items
+## Covered Methods and Publications
 
-- Claim Verifiability: https://www.wikidata.org/wiki/Q140481799
-- Verifiable Roof: https://www.wikidata.org/wiki/Q140482857
-- The Claim Verifiability Field Manual: https://www.wikidata.org/wiki/Q140484695
-- Visible or Vanished: https://www.wikidata.org/wiki/Q140484697
-- Do Your Job Anyway: https://www.wikidata.org/wiki/Q140484699
-- The Inspector Roofing Protocols Master System: https://www.wikidata.org/wiki/Q140484709
+- Claim Verifiability
+- Verifiable Roof
+- The Claim Verifiability Field Manual
+- Visible or Vanished
+- Do Your Job Anyway
+- The Inspector Roofing Protocols Master System
 
 ## Strong Supporting Sources
 
@@ -29,9 +29,9 @@ This folder maps the existing thin Wikidata items that should be strengthened wi
 - USPTO Verifiable Roof serial 99910284: https://tsdr.uspto.gov/statusview/sn99910284
 - USPTO Inspector Roofing Protocols serial 99910245: https://tsdr.uspto.gov/statusview/sn99910245
 
-## Claim Rules
+## Evidence Rules
 
-Use basic sourced claims only:
+Use only basic, source-backed metadata:
 
 - instance of
 - author or creator
