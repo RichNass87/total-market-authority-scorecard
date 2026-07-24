@@ -33,14 +33,12 @@
         "Metro Atlanta, GA"
       ],
       "sameAs": [
-        "https://www.wikidata.org/wiki/Q140480476",
         "https://www.google.com/maps/place/Inspector+Roofing+and+Restoration/@34.1455463,-84.2483834,17z/data=!3m1!4b1!4m6!3m5!1s0x88f575bc9b0587db:0xe61fa83f1e615cea!8m2!3d34.1455463!4d-84.2483834!16s%2Fg%2F11h9gcydxt"
       ],
       "founder": {
         "@type": "Person",
         "name": "Richard Amir Nasser",
         "sameAs": [
-          "https://www.wikidata.org/wiki/Q140475713",
           "https://orcid.org/0009-0000-2980-7543"
         ]
       },
@@ -69,11 +67,10 @@
         "@type": "Person",
         "name": "Richard Amir Nasser",
         "sameAs": [
-          "https://www.wikidata.org/wiki/Q140475713",
           "https://orcid.org/0009-0000-2980-7543"
         ]
       },
-      "dateModified": "2026-07-10",
+      "dateModified": "2026-07-23",
       "license": "https://creativecommons.org/licenses/by/4.0/"
     }
   ]
