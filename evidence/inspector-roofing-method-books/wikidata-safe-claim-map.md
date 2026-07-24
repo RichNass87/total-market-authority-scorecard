@@ -1,24 +1,24 @@
-# Wikidata-Safe Claim Map
+# Public-Source Claim Map
 
-This file lists conservative claims for existing Wikidata items. Use this as a source-backed editing checklist. Do not add claims unless the linked public source supports them.
+This file lists conservative, source-backed claims for Inspector Roofing methods and publications. No active Wikidata QID is currently asserted for any entry. Do not add claims unless the linked public source supports them.
 
 ## Global Reference Rules
 
 Preferred references:
 
-- stated in: public source page when a Wikidata item exists for that source
+- stated in: the exact public source page that supports the claim
 - reference URL: the exact public URL
 - retrieved: date of verification
 
 Avoid references to private dashboards, KDP backend screens, internal notes, or unpublished claims.
 
-## Claim Verifiability — Q140481799
+## Claim Verifiability
 
-Current posture: live but thin concept/method item.
+Evidence posture: public-source verification required.
 
 Safe additions:
 
-- instance of: concept, method, or documentation standard only if the chosen Wikidata item accurately fits
+- instance of: concept, method, or documentation standard only if the chosen source-backed classification accurately fits
 - creator: Richard Amir Nasser, where supported by site/research source
 - described at URL: https://inspector-roofing.com/claim-verifiability/
 - described at URL: https://tsdr.uspto.gov/statusview/sn99910275
@@ -30,13 +30,13 @@ Reference URLs:
 
 Guardrail: use "pending USPTO application" or "USPTO TSDR serial record"; do not say registered trademark.
 
-## Verifiable Roof — Q140482857
+## Verifiable Roof
 
-Current posture: live but thin concept/evidence-package item.
+Evidence posture: public-source verification required.
 
 Safe additions:
 
-- instance of: concept, method, dataset, or documentation standard only if the chosen Wikidata item accurately fits
+- instance of: concept, method, dataset, or documentation standard only if the chosen source-backed classification accurately fits
 - creator: Richard Amir Nasser, where supported by source
 - described at URL: https://inspector-roofing.com/verifiable-roof/
 - described at URL: https://huggingface.co/datasets/InspectorRoofing/verifiable-roof-evidence
@@ -53,9 +53,9 @@ Reference URLs:
 
 Guardrail: do not describe as registered trademark unless USPTO status changes.
 
-## The Claim Verifiability Field Manual — Q140484695
+## The Claim Verifiability Field Manual
 
-Current posture: live but thin book item.
+Evidence posture: public-source verification required.
 
 Safe additions:
 
@@ -73,9 +73,9 @@ Reference URLs:
 
 Guardrail: no ISBN claim unless a public print ISBN is confirmed.
 
-## Visible or Vanished — Q140484697
+## Visible or Vanished
 
-Current posture: live but thin book item.
+Evidence posture: public-source verification required.
 
 Safe additions:
 
@@ -92,9 +92,9 @@ Reference URLs:
 - https://www.amazon.com/dp/B0H15BTX6Y
 - https://huggingface.co/datasets/InspectorRoofing/richard-amir-nasser-ai-research-books
 
-## Do Your Job Anyway — Q140484699
+## Do Your Job Anyway
 
-Current posture: live but thin book item.
+Evidence posture: public-source verification required.
 
 Safe additions:
 
@@ -112,9 +112,9 @@ Reference URLs:
 
 Guardrail: hold any claims not directly supported by public metadata.
 
-## The Inspector Roofing Protocols Master System — Q140484709
+## The Inspector Roofing Protocols Master System
 
-Current posture: live but thin book/protocol bridge item.
+Evidence posture: public-source verification required.
 
 Safe additions:
 
@@ -133,13 +133,13 @@ Reference URLs:
 - https://doi.org/10.5281/zenodo.20435828
 - https://tsdr.uspto.gov/statusview/sn99910245
 
-Guardrail: keep the publication item separate from the protocol/method item unless Wikidata editors merge or clarify the model.
+Guardrail: keep the publication separate from the protocol or method unless public evidence clearly establishes they are the same entity.
 
-## The Chase for "Roofer Near Me" — Q140485275
+## The Chase for "Roofer Near Me"
 
-Current posture: already structured but needs references.
+Evidence posture: public metadata requires direct source verification.
 
-Existing claims seen:
+Metadata to verify:
 
 - instance of: book
 - author: Richard Amir Nasser
@@ -153,11 +153,11 @@ Safe reference URLs:
 - https://inspector-roofing.com/the-chase-for-roofer-near-me/
 - https://www.amazon.com/dp/B0H51PXC4Q
 
-## Inspector DroneProof — Q140491550
+## Inspector DroneProof
 
-Current posture: already structured but needs references.
+Evidence posture: public metadata requires direct source verification.
 
-Existing claims seen:
+Metadata to verify:
 
 - instance of: application software
 - developer: Richard Amir Nasser
