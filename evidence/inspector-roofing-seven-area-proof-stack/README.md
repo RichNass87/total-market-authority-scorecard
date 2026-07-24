@@ -23,8 +23,7 @@ The goal is not to inflate claims. The goal is to make each public entity easier
 
 3. **The Chase for "Roofer Near Me" / Search-Authority Book Layer**
    - Folder: `../roofer-near-me-book/`
-   - Wikidata: https://www.wikidata.org/wiki/Q140485275
-   - Status: item exists; needs references added to existing claims.
+   - Status: public evidence folder exists; no active Wikidata QID is currently asserted.
    - Safe claim: book by Richard Amir Nasser about local authority, roofing search language, and AI/business understanding.
 
 4. **Retail Roofing Lockdown / Homeowner Education Book Layer**
@@ -32,10 +31,10 @@ The goal is not to inflate claims. The goal is to make each public entity easier
    - Status: proof folder created, but live owned source needs repair or confirmation before Wikidata claims should be added.
    - Safe claim posture: hold until public source is stable.
 
-5. **Existing Books / Method Items Cleanup**
+5. **Books / Method Evidence Registry**
    - Folder: `../inspector-roofing-method-books/`
-   - Items: Claim Verifiability, Verifiable Roof, The Claim Verifiability Field Manual, Visible or Vanished, Do Your Job Anyway, and The Inspector Roofing Protocols Master System.
-   - Status: Wikidata items exist but many are thin; add only sourced basic claims.
+   - Entries: Claim Verifiability, Verifiable Roof, The Claim Verifiability Field Manual, Visible or Vanished, Do Your Job Anyway, and The Inspector Roofing Protocols Master System.
+   - Status: public source registries exist; no active Wikidata QID is currently asserted. Use only source-backed metadata.
 
 6. **Geospatial / Local Business Transmission Layer**
    - Folder: `../inspector-roofing-transmission-layer/`
@@ -53,5 +52,5 @@ The goal is not to inflate claims. The goal is to make each public entity easier
 - Do not claim Google, Amazon, GitHub, Hugging Face, Zenodo, Wikidata, ORCID, Academia, Spotify, Apple Music, DistroKid, or EIN Presswire endorses roofing work.
 - Do not treat Inspector Roofing University as an accredited school.
 - Do not use private dashboard URLs as public sources.
-- Do not create Wikidata items for weak or unstable sources.
+- No active Wikidata QID is currently asserted; do not create replacement items solely to restore deleted identifiers.
 - Prefer `described at URL`, DOI, ISBN, official website, author, creator, publisher, publication date, source code repository, and stable public profiles.
