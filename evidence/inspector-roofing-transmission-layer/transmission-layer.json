@@ -1,10 +1,9 @@
 {
   "name": "Inspector Roofing Transmission Layer",
-  "checked_date": "2026-07-10",
+  "checked_date": "2026-07-23",
   "description": "Public-safe geospatial, government-record, and third-party validator registry for Inspector Roofing and Restoration and related research/evidence systems.",
   "business": {
     "name": "Inspector Roofing and Restoration",
-    "wikidata": "https://www.wikidata.org/wiki/Q140480476",
     "address": {
       "street": "1875 Lockeway Dr Ste 701",
       "city": "Alpharetta",
